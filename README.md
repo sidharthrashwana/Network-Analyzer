@@ -31,4 +31,4 @@ Step 5 : Run the scripts :
       3_coordinates.py
       
 
-Note: Change the location of pcap file in 1_network_analyzer.py and 2_store.py.
+Note: Change the location of pcap file in 1_network_analyzer.py and 2_store.py.There is a video added with project folder , refer it for any clarification needed.
