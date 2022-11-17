@@ -20,15 +20,15 @@ Step 5 : Run the scripts :
     
     5.1 To capture the traffic :
     
-      1_network_analyzer.py
+      python3 1_network_analyzer.py
       
     5.2 To store packets onto database :
       
-      2_store.py
+      python3 2_store.py
       
     5.3 To find location of ip addresses : 
     
-      3_coordinates.py
+      python3 3_coordinates.py
       
 
-Note: Change the location of pcap file in 1_network_analyzer.py and 2_store.py.There is a video added with project folder , refer it for any clarification needed.
+Note: Change the location of pcap file in 1_network_analyzer.py and 2_store.py.There is a video added with project folder which demonstrate the project working.
