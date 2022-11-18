@@ -1,4 +1,7 @@
 # Network-Analyzer
+
+A software designed to capture packets passing through an interface and store on DB for later analysis.
+
 Step 1 : Download XAMPP for ubuntu from :
     
     https://www.apachefriends.org/download.html
